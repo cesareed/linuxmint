@@ -1,0 +1,3 @@
+integracão Linux Mint, Microsoft Windows e Github
+
+no linux sempre usamos as extensoes .txt e .md 
